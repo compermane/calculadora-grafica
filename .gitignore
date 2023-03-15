@@ -1,0 +1,5 @@
+# Ignora o algoritmo de testes
+testes.py
+
+# Ignora o 'pycache'
+**/__pycache__/
